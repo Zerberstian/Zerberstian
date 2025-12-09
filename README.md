@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Hello there im Zerberstian and i am new to Github
-- 🌱 I’m currently learning Python and Git
+- 🌱 I’m currently learning about Python, Git and Github
 - 🔭 I’m currently working on a little Project about a Pokemon Tower Type Fighting Game
 
   
