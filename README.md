@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hello there im Zerberstian and i am new to Github
+- 🌱 I’m currently learning Python and Git
+- 🔭 I’m currently working on a little Project about a Pokemon Tower Type Fighting Game
+![Katze](https://www.boredpanda.com/blog/wp-content/uploads/2024/01/659fe2c74e680_9xee90fb4zj31__700.jpg)
+  
 <!--
 **Zerberstian/Zerberstian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
