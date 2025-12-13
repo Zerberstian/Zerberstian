@@ -2,7 +2,7 @@
 
 Hello there im Zerberstian and i am new to Github
 - 🌱 I’m currently learning about Python, Git and Github
-- 🔭 My goal is to learn as much as i can so i can work fast and effectiv on every Code i need and/or want to work on
+- 🔭 My goal is to learn as much as i can, so i can work fast and effectiv on every Code i need and/or want to work on
 - 👨🏻‍💻 I’m currently working on a little Project about a Pokemon Tower Type Fighting Game
 - 🫡 Also working on a Gamba Game with RAM for the Gamba Fans xD
   
