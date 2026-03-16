@@ -5,8 +5,7 @@ Hello there im Zerberstian and i am new to Github
 - 🔭 My goal is to learn as much as i can, so i can work fast and effectiv on every Code i need and/or want to work on
 - 👨🏻‍💻 I’m currently working on many little Projects
 - 🫡 Also working on a Gamba Game with RAM for the Gamba Fans xD
-
-<a>http://127.0.0.1:5500/html/index.html#</a>  
+  
 ![Katze](https://www.boredpanda.com/blog/wp-content/uploads/2024/01/659fe2c74e680_9xee90fb4zj31__700.jpg)
   
 <!--
