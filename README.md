@@ -1,10 +1,27 @@
-## Hi there 👋
+# Hi, I'm Zerberstian
 
-Hello there im Zerberstian and i am new to Github
-- 🌱 I’m currently learning about Python, Git, Github and HTML/JS
-- 🔭 My goal is to learn as much as i can, so i can work fast and effectiv on every Code i need and/or want to work on
-- 👨🏻‍💻 I’m currently working on many little Projects
-- 🫡 Also working on a Gamba Game with RAM for the Gamba Fans xD
+I'm currently training as a **Fachinformatiker für Anwendungsentwicklung** in Germany. I use GitHub to keep track of what I'm learning and to work on small projects.
+
+## Currently learning
+
+- Python
+Da deine bisherige README auf Englisch ist, habe ich den Stil beibehalten und die Formulierungen professioneller gemacht, ohne deine Erfahrung größer darzustellen, als sie ist:
+<!--
+```markdown
+# Hi, I'm Zerberstian
+
+I'm currently training as a **Fachinformatiker für Anwendungsentwicklung** in Germany. I use GitHub to keep track of what I'm learning and to work on small projects.
+
+## Currently learning
+
+- Python
+- HTML and JavaScript
+- Git and GitHub
+
+## Projects
+
+I work on small projects to practise programming and apply what I learn during my training.
+-->
   
 ![Katze](https://www.boredpanda.com/blog/wp-content/uploads/2024/01/659fe2c74e680_9xee90fb4zj31__700.jpg)
   
